@@ -1,5 +1,4 @@
 var usb = require('usb');
-var EventEmitter2 = require('eventemitter2').EventEmitter2;
 
 module.exports = {
     /**

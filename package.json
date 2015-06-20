@@ -1,6 +1,6 @@
 {
   "name": "node-usb-detection",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A small library that surfaces node-usb's hotplug detection",
   "main": "index.js",
   "scripts": {
