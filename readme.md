@@ -5,11 +5,11 @@ node-usb-detection
 
 ## Installation
 
-	npm install node-usb-monitor --save
+	npm install node-usb-detection --save
 
 ## Usage
 
-	var monitor = require('./index');
+	var monitor = require('node-usb-detection');
 
 
 	console.log("Usb Devices:\n", monitor.list());
