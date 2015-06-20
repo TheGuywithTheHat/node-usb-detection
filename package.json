@@ -1,0 +1,29 @@
+{
+  "name": "node-usb-detection",
+  "version": "1.0.0",
+  "description": "A small library that surfaces node-usb's hotplug detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthova/node-usb-detection.git"
+  },
+  "keywords": [
+    "node",
+    "usb",
+    "usb-detection"
+  ],
+  "author": "Matt Hova <matthova87@gmail.com> (http://www.matthova.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthova/node-usb-detection/issues"
+  },
+  "homepage": "https://github.com/matthova/node-usb-detection#readme",
+  "dependencies": {
+    "usb": "^1.0.6"
+  },
+  "devDependencies": {
+  }
+}
